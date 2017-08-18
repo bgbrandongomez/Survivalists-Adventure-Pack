@@ -11,6 +11,7 @@ Angel Ring to Bauble|angelRingToBauble-1.12-0.3.0.46+306787e|https://minecraft.c
 Applied Energistics 2|appliedenergistics2-rv5-alpha-3|http://ae-mod.info|http://ae-mod.info/Downloads/
 Baubles|Baubles-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-4-6-1-5-1-updated-2017-8-2|https://mods.curse.com/mc-mods/minecraft/227083-baubles#t1:other-downloads
 BiblioCraft|BiblioCraft[v2.4.3][MC1.12.0]|http://www.bibliocraftmod.com/copyright/#modpacks|http://www.bibliocraftmod.com/downloads/
+Biomes O Plenty|BiomesOPlenty-1.12-7.0.0.2291-universal|https://minecraft.curseforge.com/projects/biomes-o-plenty|https://minecraft.curseforge.com/projects/biomes-o-plenty/files
 ChickenChunks|ChickenChunks-1.12-2.4.0.70-universal|https://github.com/TheCBProject/ChickenChunks/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/chicken-chunks-1-8/files
 ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|http://www.computercraft.info/download/|https://cc.crzd.me/ and https://github.com/dan200/ComputerCraft/pull/316
 Dark Utilities|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
@@ -46,7 +47,6 @@ Mods I may include in my pack in the future:
 Y|BOP Bibliowoods|http://www.bibliocraftmod.com/copyright/#modpacks|Allows wood from BOP to be available for use by Bibliocraft|Not yet updated to Minecraft 1.12
 N|Mystcraft|http://xcompwiz.com|For ComputerCraft controllable Portals|Both because of lack of permission and because not up to date with 1.12
 Y|CCTweaks|https://github.com/SquidDev-CC/CCTweaks-Lua/blob/master/LICENSE|For Websockets|Not up to date with 1.12
-Y|BOP|https://minecraft.curseforge.com/projects/biomes-o-plenty|For Biomes|Computer not powerful enough to run mod... Messing with settings!
 Y|Betweenlands|https://minecraft.curseforge.com/projects/angry-pixel-the-betweenlands-mod|New type of survival|Not updated to 1.12
 Y|Extracells2|https://mods.curse.com/mc-mods/minecraft/229218-extracells2|Put liquids into ae system|Not updated to 1.12
 Y|Jabba|https://minecraft.curseforge.com/projects/jabba|Barrels|Not updated to 1.12
