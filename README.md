@@ -69,6 +69,7 @@ Extra Utilities 2|extrautils2-1.12-1.5.1|I believe the bag of holding occasional
 Extra Utilities 2|extrautils2-1.12-1.5.1|Right clicking the iron drum will give the unlocalized name of a liquid from Thermal Dynamics, I have not tested on vanilla liquids or other drums
 JEI or Tough as Nails|jei_1.12-4.7.5.85 or ToughAsNails-1.12-3.0.0.62-universal|Any drink recipe will provide the correct ingredients except that it replaces the vanilla water bottle with an uncraftable potion. The drink is still craftable in survival even with the wrong JEI entry!
 Tough as Nails|ToughAsNails-1.12-3.0.0.62-universal|The rain collecter has no texture in the inventory or when held in hand. It looks and works fine when placed in world!
+Extra Utilities 2 with Tinker's Construct|extrautils2-1.12-1.5.2 and TConstruct-1.12-2.7.2.15|Tinker's Integration on Extra Utilities End fails because of NoClassDefFoundError. This seems to only occur on servers, but then again, I didn't create a single player world to see if it would crash.
 
 Any bugs related to the pack itself should be sent to me, Brandon Gomez, by clicking the [issues tab](https://github.com/bgbrandongomez/Survivalists-Adventure-Pack/issues) above and typing it there. Bugs related to the mods within these packs should be sent to their respective authors (and possibly to me too so I can record it in this list).
 
