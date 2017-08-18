@@ -37,7 +37,7 @@ CoFHCore|CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|https
 CoFHWorld|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/cofh-world/files
 CodeChickenLib|[CodeChickenLib-1.12-3.1.1.289-universal](http://chickenbones.net/maven/codechicken/CodeChickenLib/1.12-3.1.1.289/)|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
 Mantle|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
-RedstoneFlux|RedstoneFlux-1.12-2.0.0.1-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
+RedstoneFlux|RedstoneFlux-1.12-2.0.1.2-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
 
 Mods I may include in my pack in the future:
 
