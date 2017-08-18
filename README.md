@@ -1,11 +1,11 @@
 # Survivalists-Adventure-Pack
 This is a modpack for Minecraft 1.12! This pack requires forge-1.12-14.21.1.2443!
 
-I have not <s>uploaded the pack yet</s><b>I actually am keeping the repository private</b> as some developers want me to notify them first and I want to provide common courtesy of attempting to notify all developers if I can first.
+I have not <s>uploaded the pack yet</s> <b>I actually am keeping the repository private</b> as some developers want me to notify them first and I want to provide common courtesy of attempting to notify all developers if I can first.
 
 Mods in Pack:
 
-**Name**|**Version**|**Link to Permission**|** Link to Download**
+**Name**|**Version**|**Link to Permission**|**Link to Download**
 :-----:|:-----:|:-----:|:-----:
 Angel Ring to Bauble|angelRingToBauble-1.12-0.3.0.46+306787e|https://minecraft.curseforge.com/projects/angel-ring-to-bauble|https://minecraft.curseforge.com/projects/angel-ring-to-bauble
 Applied Energistics 2|appliedenergistics2-rv5-alpha-2|http://ae-mod.info|http://ae-mod.info/Downloads/
@@ -59,6 +59,7 @@ Things I want in my pack:
 * Pull liquid out with turtles
 
 Known Bugs:
+
 **Mod Name**|**Bug**
 ComputerCraft|If you enter the nether (untested on end dimension, does not seem affected by deep dark or unloading the chunk), crash the game, or freeze your (real) computer and force restart it, even when running a server, the ComputerCraft computers and turtles shutdown and won't turn back on until you open them!
 ComputerCraft|There is occasionally a visual bug which causes a turtle to look like its undyed self when moving while the game is lagging
@@ -67,3 +68,7 @@ Extra Utilities 2|I believe the bag of holding occasionally deletes its inventor
 Extra Utilities 2|Right clicking the iron drum will give the unlocalized name of a liquid from Thermal Dynamics, I have not tested on vanilla liquids or other drums
 JEI or Tough as Nails|Any drink recipe will provide the correct ingredients except that it replaces the vanilla water bottle with an uncraftable potion. The drink is still craftable in survival even with the wrong JEI entry!
 Tough as Nails|The rain collecter has no texture in the inventory or when held in hand. It looks and works fine when placed in world!
+
+Any bugs related to the pack itself should be sent to me, Brandon Gomez, by clicking the [issues tab](https://github.com/bgbrandongomez/Survivalists-Adventure-Pack/issues) above and typing it there. Bugs related to the mods within these packs should be sent to their respective authors (and possibly to me too so I can record it in this list).
+
+Speaking of bugs, about 8 of these mods (including Core Mods) are counted as Beta, Alpha, or Experimental, and thus, should be treated with care (and also, make sure to back up your worlds (which is good practice anyway)).
