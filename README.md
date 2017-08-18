@@ -61,6 +61,7 @@ Things I want in my pack:
 Known Bugs:
 
 **Mod Name**|**Bug**
+:-----:|:-----:
 ComputerCraft|If you enter the nether (untested on end dimension, does not seem affected by deep dark or unloading the chunk), crash the game, or freeze your (real) computer and force restart it, even when running a server, the ComputerCraft computers and turtles shutdown and won't turn back on until you open them!
 ComputerCraft|There is occasionally a visual bug which causes a turtle to look like its undyed self when moving while the game is lagging
 Applied Energistics 2|The wooden hand cranks have a visual bug which causes the cranks to not be in their respective holes
