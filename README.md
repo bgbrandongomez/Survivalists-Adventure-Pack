@@ -8,7 +8,7 @@ Mods in Pack:
 **Name**|**Version**|**Link to Permission**|**Link to Download**
 :-----:|:-----:|:-----:|:-----:
 Angel Ring to Bauble|angelRingToBauble-1.12-0.3.0.46+306787e|https://minecraft.curseforge.com/projects/angel-ring-to-bauble|https://minecraft.curseforge.com/projects/angel-ring-to-bauble
-Applied Energistics 2|appliedenergistics2-rv5-alpha-2|http://ae-mod.info|http://ae-mod.info/Downloads/
+Applied Energistics 2|appliedenergistics2-rv5-alpha-3|http://ae-mod.info|http://ae-mod.info/Downloads/
 Baubles|Baubles-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-4-6-1-5-1-updated-2017-8-2|https://mods.curse.com/mc-mods/minecraft/227083-baubles#t1:other-downloads
 BiblioCraft|BiblioCraft[v2.4.3][MC1.12.0]|http://www.bibliocraftmod.com/copyright/#modpacks|http://www.bibliocraftmod.com/downloads/
 ChickenChunks|ChickenChunks-1.12-2.4.0.70-universal|https://github.com/TheCBProject/ChickenChunks/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/chicken-chunks-1-8/files
@@ -16,10 +16,10 @@ ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1
 Dark Utilities|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
 Dynamic Lights|DynamicLights-1.12|http://atomicstryker.net/about.php|http://atomicstryker.net/dynamiclights.php
 Ender Storage|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
-Extra Utilities 2|extrautils2-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
+Extra Utilities 2|extrautils2-1.12-1.5.2|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
 Hwyla|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1|https://minecraft.curseforge.com/projects/hwyla/files
 Iron Chest|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests|https://minecraft.curseforge.com/projects/iron-chests/files
-JEI (Just Enough Items)|jei_1.12-4.7.5.85|https://minecraft.curseforge.com/projects/just-enough-items-jei|https://minecraft.curseforge.com/projects/just-enough-items-jei/files
+JEI (Just Enough Items)|jei_1.12-4.7.5.86|https://minecraft.curseforge.com/projects/just-enough-items-jei|https://minecraft.curseforge.com/projects/just-enough-items-jei/files
 Plethora|plethora-1.12-1.1.7-pr1|https://github.com/SquidDev-CC/plethora/blob/minecraft-1.12/ReadMe.md|https://minecraft.curseforge.com/projects/plethora-peripherals/files
 SoulShards|SoulShards-TOW-1.12-2.7.3-52|https://minecraft.curseforge.com/projects/soul-shards-the-old-ways|https://minecraft.curseforge.com/projects/soul-shards-the-old-ways/files
 Tinker's Construct|TConstruct-1.12-2.7.2.15|https://minecraft.curseforge.com/projects/tinkers-construct|https://minecraft.curseforge.com/projects/tinkers-construct/files
@@ -30,14 +30,14 @@ Tough as Nails|ToughAsNails-1.12-3.0.0.62-universal|https://mods.curse.com/mc-mo
 
 Core Mods in Pack:
 
-**Name**|**Version**|**Link to Permission**|** Link to Download**
+**Name**|**Version**|**Link to Permission**|**Link to Download**
 :-----:|:-----:|:-----:|:-----:
 Bookshelf|Bookshelf-1.12-2.0.0.420|https://github.com/Darkhax-Minecraft/Bookshelf/blob/master/README.md|https://minecraft.curseforge.com/projects/bookshelf/files
 CoFHCore|CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|https://mods.curse.com/mc-mods/minecraft/cofhcore#t1:other-downloads
 CoFHWorld|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/cofh-world/files
-CodeChickenLib|CodeChickenLib-1.12-3.1.1.289-universal|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
+CodeChickenLib|[CodeChickenLib-1.12-3.1.1.289-universal](http://chickenbones.net/maven/codechicken/CodeChickenLib/1.12-3.1.1.289/)|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
 Mantle|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
-RedstoneFlux|RedstoneFlux-1.12-2.0.1.2-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
+RedstoneFlux|RedstoneFlux-1.12-2.0.0.1-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
 
 Mods I may include in my pack in the future:
 
@@ -60,15 +60,15 @@ Things I want in my pack:
 
 Known Bugs:
 
-**Mod Name**|**Bug**
-:-----:|:-----:
-ComputerCraft|If you enter the nether (untested on end dimension, does not seem affected by deep dark or unloading the chunk), crash the game, or freeze your (real) computer and force restart it, even when running a server, the ComputerCraft computers and turtles shutdown and won't turn back on until you open them!
-ComputerCraft|There is occasionally a visual bug which causes a turtle to look like its undyed self when moving while the game is lagging
-Applied Energistics 2|The wooden hand cranks have a visual bug which causes the cranks to not be in their respective holes
-Extra Utilities 2|I believe the bag of holding occasionally deletes its inventory. I have not tested it thoroughly yet, so I have not confirmed it yet!
-Extra Utilities 2|Right clicking the iron drum will give the unlocalized name of a liquid from Thermal Dynamics, I have not tested on vanilla liquids or other drums
-JEI or Tough as Nails|Any drink recipe will provide the correct ingredients except that it replaces the vanilla water bottle with an uncraftable potion. The drink is still craftable in survival even with the wrong JEI entry!
-Tough as Nails|The rain collecter has no texture in the inventory or when held in hand. It looks and works fine when placed in world!
+**Mod Name**|**Version Found**|**Bug**
+:-----:|:-----:|:-----:
+ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|If you enter the nether (untested on end dimension, does not seem affected by deep dark or unloading the chunk), crash the game, or freeze your (real) computer and force restart it, even when running a server, the ComputerCraft computers and turtles shutdown and won't turn back on until you open them!
+ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|There is occasionally a visual bug which causes a turtle to look like its undyed self when moving while the game is lagging
+Applied Energistics 2|appliedenergistics2-rv5-alpha-2|The wooden hand cranks have a visual bug which causes the cranks to not be in their respective holes
+Extra Utilities 2|extrautils2-1.12-1.5.1|I believe the bag of holding occasionally deletes its inventory. I have not tested it thoroughly yet, so I have not confirmed it yet!
+Extra Utilities 2|extrautils2-1.12-1.5.1|Right clicking the iron drum will give the unlocalized name of a liquid from Thermal Dynamics, I have not tested on vanilla liquids or other drums
+JEI or Tough as Nails|jei_1.12-4.7.5.85 or ToughAsNails-1.12-3.0.0.62-universal|Any drink recipe will provide the correct ingredients except that it replaces the vanilla water bottle with an uncraftable potion. The drink is still craftable in survival even with the wrong JEI entry!
+Tough as Nails|ToughAsNails-1.12-3.0.0.62-universal|The rain collecter has no texture in the inventory or when held in hand. It looks and works fine when placed in world!
 
 Any bugs related to the pack itself should be sent to me, Brandon Gomez, by clicking the [issues tab](https://github.com/bgbrandongomez/Survivalists-Adventure-Pack/issues) above and typing it there. Bugs related to the mods within these packs should be sent to their respective authors (and possibly to me too so I can record it in this list).
 
