@@ -1,21 +1,21 @@
 # Survivalists-Adventure-Pack
 This is a modpack for Minecraft 1.12! This pack requires forge-1.12-14.21.1.2443!
 
-I have not uploaded the pack yet as some developers want me to notify them first and I want to provide common courtesy of attempting to notify all developers if I can first.
+I have not <s>uploaded the pack yet</s><b>I actually am keeping the repository private</b> as some developers want me to notify them first and I want to provide common courtesy of attempting to notify all developers if I can first.
 
 Mods in Pack:
 
 **Name**|**Version**|**Link to Permission**|** Link to Download**
 :-----:|:-----:|:-----:|:-----:
-Angel Ring to Bauble|angelRingToBauble-1.12-0.3.0.46+306787e|https://minecraft.curseforge.com/projects/angel-ring-to-bauble| 
-Applied Energistics 2|appliedenergistics2-rv5-alpha-2|http://ae-mod.info| 
-Baubles|Baubles-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-4-6-1-5-1-updated-2017-8-2| 
-BiblioCraft|BiblioCraft[v2.4.3][MC1.12.0]|http://www.bibliocraftmod.com/copyright/#modpacks| 
-ChickenChunks|ChickenChunks-1.12-2.4.0.70-universal|https://github.com/TheCBProject/ChickenChunks/blob/master/LICENSE.txt| 
-ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|http://www.computercraft.info/download/| 
-Dark Utilities|DarkUtils-1.12-1.6.167|https://minecraft.curseforge.com/projects/dark-utilities| 
-Dynamic Lights|DynamicLights-1.12|http://atomicstryker.net/about.php| 
-Ender Storage|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt| 
+Angel Ring to Bauble|angelRingToBauble-1.12-0.3.0.46+306787e|https://minecraft.curseforge.com/projects/angel-ring-to-bauble|https://minecraft.curseforge.com/projects/angel-ring-to-bauble
+Applied Energistics 2|appliedenergistics2-rv5-alpha-2|http://ae-mod.info|http://ae-mod.info/Downloads/
+Baubles|Baubles-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-4-6-1-5-1-updated-2017-8-2|https://mods.curse.com/mc-mods/minecraft/227083-baubles#t1:other-downloads
+BiblioCraft|BiblioCraft[v2.4.3][MC1.12.0]|http://www.bibliocraftmod.com/copyright/#modpacks|http://www.bibliocraftmod.com/downloads/
+ChickenChunks|ChickenChunks-1.12-2.4.0.70-universal|https://github.com/TheCBProject/ChickenChunks/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/chicken-chunks-1-8/files
+ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|http://www.computercraft.info/download/|https://cc.crzd.me/ and https://github.com/dan200/ComputerCraft/pull/316
+Dark Utilities|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
+Dynamic Lights|DynamicLights-1.12|http://atomicstryker.net/about.php|http://atomicstryker.net/dynamiclights.php
+Ender Storage|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
 Extra Utilities 2|extrautils2-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k| 
 Hwyla|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1| 
 Iron Chest|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests| 
