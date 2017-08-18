@@ -16,28 +16,28 @@ ComputerCraft|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1
 Dark Utilities|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
 Dynamic Lights|DynamicLights-1.12|http://atomicstryker.net/about.php|http://atomicstryker.net/dynamiclights.php
 Ender Storage|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
-Extra Utilities 2|extrautils2-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k| 
-Hwyla|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1| 
-Iron Chest|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests| 
-JEI (Just Enough Items)|jei_1.12-4.7.5.85|https://minecraft.curseforge.com/projects/just-enough-items-jei| 
-Plethora|plethora-1.12-1.1.7-pr1|https://github.com/SquidDev-CC/plethora/blob/minecraft-1.12/ReadMe.md| 
-SoulShards|SoulShards-TOW-1.12-2.7.3-52|https://minecraft.curseforge.com/projects/soul-shards-the-old-ways| 
-Tinker's Construct|TConstruct-1.12-2.7.2.15|https://minecraft.curseforge.com/projects/tinkers-construct| 
-Thermal Dynamics|ThermalDynamics-1.12-2.3.3.10-universal|http://teamcofh.com/permissions/| 
-Thermal Expansion|ThermalExpansion-1.12-5.3.3.15-universal|http://teamcofh.com/permissions/| 
-Thermal Foundation|ThermalFoundation-1.12-2.3.3.10-universal|http://teamcofh.com/permissions/| 
-Tough as Nails|ToughAsNails-1.12-3.0.0.62-universal|https://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails| 
+Extra Utilities 2|extrautils2-1.12-1.5.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
+Hwyla|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1|https://minecraft.curseforge.com/projects/hwyla/files
+Iron Chest|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests|https://minecraft.curseforge.com/projects/iron-chests/files
+JEI (Just Enough Items)|jei_1.12-4.7.5.85|https://minecraft.curseforge.com/projects/just-enough-items-jei|https://minecraft.curseforge.com/projects/just-enough-items-jei/files
+Plethora|plethora-1.12-1.1.7-pr1|https://github.com/SquidDev-CC/plethora/blob/minecraft-1.12/ReadMe.md|https://minecraft.curseforge.com/projects/plethora-peripherals/files
+SoulShards|SoulShards-TOW-1.12-2.7.3-52|https://minecraft.curseforge.com/projects/soul-shards-the-old-ways|https://minecraft.curseforge.com/projects/soul-shards-the-old-ways/files
+Tinker's Construct|TConstruct-1.12-2.7.2.15|https://minecraft.curseforge.com/projects/tinkers-construct|https://minecraft.curseforge.com/projects/tinkers-construct/files
+Thermal Dynamics|ThermalDynamics-1.12-2.3.3.10-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/thermal-dynamics/files
+Thermal Expansion|ThermalExpansion-1.12-5.3.3.15-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/thermalexpansion/files
+Thermal Foundation|ThermalFoundation-1.12-2.3.3.10-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/thermal-foundation/files
+Tough as Nails|ToughAsNails-1.12-3.0.0.62-universal|https://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails|https://mods.curse.com/mc-mods/minecraft/246391-tough-as-nails#t1:other-downloads
 
 Core Mods in Pack:
 
 **Name**|**Version**|**Link to Permission**|** Link to Download**
 :-----:|:-----:|:-----:|:-----:
-Bookshelf|Bookshelf-1.12-2.0.0.420|https://github.com/Darkhax-Minecraft/Bookshelf/blob/master/README.md|
-CoFHCore|CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|
-CoFHWorld|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|
-CodeChickenLib|CodeChickenLib-1.12-3.1.1.289-universal|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|
-Mantle|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|
-RedstoneFlux|RedstoneFlux-1.12-2.0.1.2-universal|http://teamcofh.com/permissions/|
+Bookshelf|Bookshelf-1.12-2.0.0.420|https://github.com/Darkhax-Minecraft/Bookshelf/blob/master/README.md|https://minecraft.curseforge.com/projects/bookshelf/files
+CoFHCore|CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|https://mods.curse.com/mc-mods/minecraft/cofhcore#t1:other-downloads
+CoFHWorld|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/cofh-world/files
+CodeChickenLib|CodeChickenLib-1.12-3.1.1.289-universal|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
+Mantle|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
+RedstoneFlux|RedstoneFlux-1.12-2.0.1.2-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
 
 Mods I may include in my pack in the future:
 
@@ -51,9 +51,19 @@ Y|Betweenlands|https://minecraft.curseforge.com/projects/angry-pixel-the-between
 Y|Extracells2|https://mods.curse.com/mc-mods/minecraft/229218-extracells2|Put liquids into ae system|Not updated to 1.12
 Y|Jabba|https://minecraft.curseforge.com/projects/jabba|Barrels|Not updated to 1.12
 Y|Chisel|https://minecraft.curseforge.com/projects/chisel|Decoration Blocks|Crashed game when testing... May be fixable!
-Y|Galacticraft|https://wiki.micdoodle8.com/wiki/Modpack\_Permission|Space Design|Not updated to 1.12
+Y|Galacticraft|https://wiki.micdoodle8.com/wiki/Modpack_Permission|Space Design|Not updated to 1.12
 Y|Senor's Stuff|https://stuff.mod.minecraft.senorcontento.com/|I am developing it for my own needs|I have not developed it yet!
 
 Things I want in my pack:
 * Change Enderchest colors by computer
 * Pull liquid out with turtles
+
+Known Bugs:
+**Mod Name**|**Bug**
+ComputerCraft|If you enter the nether (untested on end dimension, does not seem affected by deep dark or unloading the chunk), crash the game, or freeze your (real) computer and force restart it, even when running a server, the ComputerCraft computers and turtles shutdown and won't turn back on until you open them!
+ComputerCraft|There is occasionally a visual bug which causes a turtle to look like its undyed self when moving while the game is lagging
+Applied Energistics 2|The wooden hand cranks have a visual bug which causes the cranks to not be in their respective holes
+Extra Utilities 2|I believe the bag of holding occasionally deletes its inventory. I have not tested it thoroughly yet, so I have not confirmed it yet!
+Extra Utilities 2|Right clicking the iron drum will give the unlocalized name of a liquid from Thermal Dynamics, I have not tested on vanilla liquids or other drums
+JEI or Tough as Nails|Any drink recipe will provide the correct ingredients except that it replaces the vanilla water bottle with an uncraftable potion. The drink is still craftable in survival even with the wrong JEI entry!
+Tough as Nails|The rain collecter has no texture in the inventory or when held in hand. It looks and works fine when placed in world!
