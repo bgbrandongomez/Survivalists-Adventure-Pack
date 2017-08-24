@@ -16,7 +16,7 @@ ChickenChunks|covers1624 and chicken_bones (author)|ChickenChunks-1.12-2.4.0.70-
 ComputerCraft|SquidDev and dan200 (former author)|ComputerCraft-SquidDev-CC-ComputerCraft-feature-minecraft-1.12.2-1.80pr0-build20|http://www.computercraft.info/download/|https://cc.crzd.me/ and https://github.com/dan200/ComputerCraft/pull/316
 Dark Utilities|Darkhax|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
 Dynamic Lights|atomicstryker|DynamicLights-1.12|http://atomicstryker.net/about.php|http://atomicstryker.net/dynamiclights.php
-Ender Storage|TheCBProject|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
+Ender Storage|covers1624 and chicken_bones (author)|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
 Extra Utilities 2|RWTema|extrautils2-1.12-1.5.2|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
 Hwyla|TehNut|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1|https://minecraft.curseforge.com/projects/hwyla/files
 Iron Chest|progwml6|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests|https://minecraft.curseforge.com/projects/iron-chests/files
@@ -37,25 +37,25 @@ Core Mods in Pack:
 
 **Name**|**Author**|**Version**|**Link to Permission**|**Link to Download**
 :-----:|:-----:|:-----:|:-----:|:-----:
-Bookshelf||Bookshelf-1.12-2.0.0.420|https://github.com/Darkhax-Minecraft/Bookshelf/blob/master/README.md|https://minecraft.curseforge.com/projects/bookshelf/files
-CoFHCore||CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|https://mods.curse.com/mc-mods/minecraft/cofhcore#t1:other-downloads
-CoFHWorld||CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/cofh-world/files
-CodeChickenLib||[CodeChickenLib-1.12-3.1.1.289-universal](http://chickenbones.net/maven/codechicken/CodeChickenLib/1.12-3.1.1.289/)|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
-Mantle||Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
-RedstoneFlux||RedstoneFlux-1.12-2.0.1.2-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
+Bookshelf|Darkhax|Bookshelf-1.12-2.0.0.420|https://github.com/Darkhax-Minecraft/Bookshelf/blob/master/README.md|https://minecraft.curseforge.com/projects/bookshelf/files
+CoFHCore|TeamCoFH|CoFHCore-1.12-4.3.3.11-universal|http://teamcofh.com/permissions/|https://mods.curse.com/mc-mods/minecraft/cofhcore#t1:other-downloads
+CoFHWorld|TeamCoFH|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/cofh-world/files
+CodeChickenLib|covers1624 and chicken_bones (author)|[CodeChickenLib-1.12-3.1.1.289-universal](http://chickenbones.net/maven/codechicken/CodeChickenLib/1.12-3.1.1.289/)|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
+Mantle|mDiyo|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
+RedstoneFlux|TeamCoFH|RedstoneFlux-1.12-2.0.1.2-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
 
 Mods I may include in my pack in the future:
 
 **Already Have Permission?**|**Name**|**Author**|**Link to Permission**|**Reason I want the Mod**|**Reason for Not Already in Pack**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Y|BOP Bibliowoods||http://www.bibliocraftmod.com/copyright/#modpacks|Allows wood from BOP to be available for use by Bibliocraft|Not yet updated to Minecraft 1.12
-N|Mystcraft||http://xcompwiz.com|For ComputerCraft controllable Portals|Both because of lack of permission and because not up to date with 1.12
-Y|CCTweaks||https://github.com/SquidDev-CC/CCTweaks-Lua/blob/master/LICENSE|For Websockets|Not up to date with 1.12
-Y|Betweenlands||https://minecraft.curseforge.com/projects/angry-pixel-the-betweenlands-mod|New type of survival|Not updated to 1.12
-Y|Extracells2||https://mods.curse.com/mc-mods/minecraft/229218-extracells2|Put liquids into ae system|Not updated to 1.12
-Y|Jabba||https://minecraft.curseforge.com/projects/jabba|Barrels|Not updated to 1.12
-Y|Chisel||https://minecraft.curseforge.com/projects/chisel|Decoration Blocks|Crashed game when testing... May be fixable!
-Y|Galacticraft||https://wiki.micdoodle8.com/wiki/Modpack_Permission|Space Design|Not updated to 1.12
+Y|BOP Bibliowoods|Nuchaz|http://www.bibliocraftmod.com/copyright/#modpacks|Allows wood from BOP to be available for use by Bibliocraft|Not yet updated to Minecraft 1.12
+N|Mystcraft|xcompwiz|http://xcompwiz.com|For ComputerCraft controllable Portals|Both because of lack of permission and because not up to date with 1.12
+Y|CCTweaks|SquidDev|https://github.com/SquidDev-CC/CCTweaks-Lua/blob/master/LICENSE|For Websockets|Not up to date with 1.12
+Y|Betweenlands|MrCompost|https://minecraft.curseforge.com/projects/angry-pixel-the-betweenlands-mod|New type of survival|Not updated to 1.12
+Y|Extracells2|DrummerMC|https://mods.curse.com/mc-mods/minecraft/229218-extracells2|Put liquids into ae system|Not updated to 1.12
+Y|Jabba|ProfMobius|https://minecraft.curseforge.com/projects/jabba|Barrels|Not updated to 1.12
+Y|Chisel|tterrag1098|https://minecraft.curseforge.com/projects/chisel|Decoration Blocks|Crashed game when testing... May be fixable!
+Y|Galacticraft|micdoodle8|https://wiki.micdoodle8.com/wiki/Modpack_Permission|Space Design|Not updated to 1.12
 Y|Senor's Stuff|Senor Contento (Brandon Gomez)|https://stuff.mod.minecraft.senorcontento.com/|I am developing it for my own needs|I have not developed it yet!
 
 Things I want in my pack:
