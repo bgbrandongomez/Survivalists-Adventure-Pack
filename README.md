@@ -32,6 +32,7 @@ Just Enough Resources|Way2muchnoise|JustEnoughResources-1.12-0.8.3.23|https://gi
 Gravestone Mod|EuhDawson|gravestone-1.8.4|https://minecraft.curseforge.com/projects/gravestone-mod/files|https://minecraft.curseforge.com/projects/gravestone-mod
 Simple Teleporters|Lemon|simpleteleporters-1.12-2.1.5|https://minecraft.curseforge.com/projects/simple-teleporters|https://minecraft.curseforge.com/projects/simple-teleporters/files
 CraftTweaker|jaredlll08 and StanH (former author)|CraftTweaker2-1.12-4.0.4|https://github.com/stanhebben/MineTweaker3/blob/master/readme.md|https://minecraft.curseforge.com/projects/crafttweaker/files
+More Overlays|feldim2425|moreoverlays-1.12-mc1.12|https://minecraft.curseforge.com/projects/more-overlays|https://minecraft.curseforge.com/projects/more-overlays/files
 
 Core Mods in Pack:
 
@@ -57,6 +58,7 @@ Y|Jabba|ProfMobius|https://minecraft.curseforge.com/projects/jabba|Barrels|Not u
 Y|Chisel|tterrag1098|https://minecraft.curseforge.com/projects/chisel|Decoration Blocks|Crashed game when testing... May be fixable!
 Y|Galacticraft|micdoodle8|https://wiki.micdoodle8.com/wiki/Modpack_Permission|Space Design|Not updated to 1.12
 Y|Senor's Stuff|Senor Contento (Brandon Gomez)|https://stuff.mod.minecraft.senorcontento.com/|I am developing it for my own needs|I have not developed it yet!
+Y|More Planets (Galicticraft Addon)|SteveKunGz|https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets|https://minecraft.curseforge.com/projects/galacticraft-add-on-more-planets/files
 
 Things I want in my pack:
 * Change Enderchest colors by computer
