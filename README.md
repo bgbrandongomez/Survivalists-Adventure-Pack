@@ -17,7 +17,7 @@ ComputerCraft|SquidDev and dan200 (former author)|ComputerCraft-SquidDev-CC-Comp
 Dark Utilities|Darkhax|DarkUtils-1.12-1.6.167|https://twitter.com/SenorContento/status/898347138664378368|https://minecraft.curseforge.com/projects/dark-utilities/files
 Dynamic Lights|atomicstryker|DynamicLights-1.12|http://atomicstryker.net/about.php|http://atomicstryker.net/dynamiclights.php
 Ender Storage|covers1624 and chicken_bones (author)|EnderStorage-1.12-2.4.0.119-universal|https://github.com/TheCBProject/EnderStorage/blob/master/LICENSE.txt|https://minecraft.curseforge.com/projects/ender-storage-1-8/files
-Extra Utilities 2|RWTema|extrautils2-1.12-1.5.2|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
+Extra Utilities 2|RWTema|extrautils2-1.12-1.6.1|http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k|https://minecraft.curseforge.com/projects/extra-utilities/files
 Hwyla|TehNut|Hwyla-1.8.19-B33_1.12|https://minecraft.curseforge.com/projects/hwyla and http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-7-for-1-7-10-1-6-0-for-1-8-1|https://minecraft.curseforge.com/projects/hwyla/files
 Iron Chest|progwml6|ironchest-1.12-7.0.31.818|https://minecraft.curseforge.com/projects/iron-chests|https://minecraft.curseforge.com/projects/iron-chests/files
 JEI (Just Enough Items)|mezz|jei_1.12-4.7.5.86|https://minecraft.curseforge.com/projects/just-enough-items-jei|https://minecraft.curseforge.com/projects/just-enough-items-jei/files
@@ -31,8 +31,15 @@ Tough as Nails|Glitchfiend|ToughAsNails-1.12-3.0.0.62-universal|https://mods.cur
 Just Enough Resources|Way2muchnoise|JustEnoughResources-1.12-0.8.3.23|https://github.com/way2muchnoise/JustEnoughResources/blob/master/LICENSE.md|https://minecraft.curseforge.com/projects/just-enough-resources-jer
 Gravestone Mod|EuhDawson|gravestone-1.8.4|https://minecraft.curseforge.com/projects/gravestone-mod/files|https://minecraft.curseforge.com/projects/gravestone-mod
 Simple Teleporters|Lemon|simpleteleporters-1.12-2.1.5|https://minecraft.curseforge.com/projects/simple-teleporters|https://minecraft.curseforge.com/projects/simple-teleporters/files
-CraftTweaker|jaredlll08 and StanH (former author)|CraftTweaker2-1.12-4.0.4|https://github.com/stanhebben/MineTweaker3/blob/master/readme.md|https://minecraft.curseforge.com/projects/crafttweaker/files
+CraftTweaker 2|jaredlll08 and StanH (former author)|CraftTweaker2-1.12-4.0.4|https://github.com/stanhebben/MineTweaker3/blob/master/readme.md|https://minecraft.curseforge.com/projects/crafttweaker/files
 More Overlays|feldim2425|moreoverlays-1.12-mc1.12|https://minecraft.curseforge.com/projects/more-overlays|https://minecraft.curseforge.com/projects/more-overlays/files
+Black Hole Storage|apengu_|BlackHoleStorage-1.12-17r|https://minecraft.curseforge.com/projects/black-hole-storage|https://minecraft.curseforge.com/projects/black-hole-storage/files
+Draconic Evolution|brandon3055|Draconic-Evolution-1.12-2.3.3.261-universal|https://minecraft.curseforge.com/projects/draconic-evolution|https://minecraft.curseforge.com/projects/draconic-evolution/files
+RF Tools|McJty|rftools-1.12-6.13|https://minecraft.curseforge.com/projects/rftools|https://minecraft.curseforge.com/projects/rftools/files
+RF Tools Dimensions|McJty|rftoolsdim-1.12-5.04|https://minecraft.curseforge.com/projects/rftools-dimensions|https://minecraft.curseforge.com/projects/rftools-dimensions/files
+Solar Flux Reborn|apengu_|SolarFluxReborn_1.12-3.25r|https://minecraft.curseforge.com/projects/solar-flux-reborn|https://minecraft.curseforge.com/projects/solar-flux-reborn/files
+
+https://minecraft.curseforge.com/projects/yabba
 
 Core Mods in Pack:
 
@@ -44,6 +51,11 @@ CoFHWorld|TeamCoFH|CoFHWorld-1.12-1.0.0.6-universal|http://teamcofh.com/permissi
 CodeChickenLib|covers1624 and chicken_bones (author)|[CodeChickenLib-1.12-3.1.1.289-universal](http://chickenbones.net/maven/codechicken/CodeChickenLib/1.12-3.1.1.289/)|https://github.com/TheCBProject/CodeChickenLib/blob/master/LICENSE|https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files
 Mantle|mDiyo|Mantle-1.12-1.3.1.18|https://github.com/SlimeKnights/Mantle/blob/master/README.md|https://minecraft.curseforge.com/projects/mantle/files
 RedstoneFlux|TeamCoFH|RedstoneFlux-1.12-2.0.1.2-universal.jar|http://teamcofh.com/permissions/|https://minecraft.curseforge.com/projects/redstone-flux/files
+Brandon's Core|brandon3055|BrandonsCore-1.12-2.3.2.129-universal|https://minecraft.curseforge.com/projects/brandons-core|https://minecraft.curseforge.com/projects/brandons-core/files
+Hammer Core|apengu_|HammerCore-1.12-1.9.4.0|https://minecraft.curseforge.com/projects/hammer-core|https://minecraft.curseforge.com/projects/hammer-core/files
+mcjtylib|McJty|mcjtylib-1.12-2.4.4|https://minecraft.curseforge.com/projects/mcjtylib|https://minecraft.curseforge.com/projects/mcjtylib/files
+
+https://minecraft.curseforge.com/projects/ftblib
 
 Mods I may include in my pack in the future:
 
